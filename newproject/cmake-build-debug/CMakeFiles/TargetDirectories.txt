@@ -1,0 +1,3 @@
+/Users/batuhanturkyilmaz/CLionProjects/newproject/cmake-build-debug/CMakeFiles/newproject.dir
+/Users/batuhanturkyilmaz/CLionProjects/newproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/batuhanturkyilmaz/CLionProjects/newproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
