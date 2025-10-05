@@ -1,0 +1,1 @@
+Hospital Management System (HMS) developed in C language. A fundamental console-based application designed for basic patient record management and appointment scheduling within a university project context.
